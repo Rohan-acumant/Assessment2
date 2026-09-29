@@ -3,23 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\Inno\\Desktop\\CSharp\\Librarylevel1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09A470ED-4526-4424-9B1B-A594AC104F23}|Librarylevel1\\Librarylevel1.csproj|c:\\users\\inno\\desktop\\csharp\\librarylevel1\\librarylevel1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09A470ED-4526-4424-9B1B-A594AC104F23}|Librarylevel1\\Librarylevel1.csproj|solutionrelative:librarylevel1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09A470ED-4526-4424-9B1B-A594AC104F23}|Librarylevel1\\Librarylevel1.csproj|c:\\users\\inno\\desktop\\csharp\\librarylevel1\\librarylevel1\\data\\bookdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09A470ED-4526-4424-9B1B-A594AC104F23}|Librarylevel1\\Librarylevel1.csproj|solutionrelative:librarylevel1\\data\\bookdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09A470ED-4526-4424-9B1B-A594AC104F23}|Librarylevel1\\Librarylevel1.csproj|c:\\users\\inno\\desktop\\csharp\\librarylevel1\\librarylevel1\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09A470ED-4526-4424-9B1B-A594AC104F23}|Librarylevel1\\Librarylevel1.csproj|solutionrelative:librarylevel1\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09A470ED-4526-4424-9B1B-A594AC104F23}|Librarylevel1\\Librarylevel1.csproj|c:\\users\\inno\\desktop\\csharp\\librarylevel1\\librarylevel1\\librarylevel1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{09A470ED-4526-4424-9B1B-A594AC104F23}|Librarylevel1\\Librarylevel1.csproj|solutionrelative:librarylevel1\\librarylevel1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{12A123C1-E64B-902E-49D6-34E52D2FD062}|Librarylevel1\\Librarylevel1.csproj|c:\\users\\inno\\desktop\\csharp\\librarylevel1\\librarylevel1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A123C1-E64B-902E-49D6-34E52D2FD062}|Librarylevel1\\Librarylevel1.csproj|solutionrelative:librarylevel1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Inno\\Desktop\\CSharp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A123C1-E64B-902E-49D6-34E52D2FD062}|Librarylevel1\\Librarylevel1.csproj|c:\\users\\inno\\desktop\\csharp\\librarylevel1\\librarylevel1\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A123C1-E64B-902E-49D6-34E52D2FD062}|Librarylevel1\\Librarylevel1.csproj|solutionrelative:librarylevel1\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A123C1-E64B-902E-49D6-34E52D2FD062}|Librarylevel1\\Librarylevel1.csproj|c:\\users\\inno\\desktop\\csharp\\librarylevel1\\librarylevel1\\data\\bookdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A123C1-E64B-902E-49D6-34E52D2FD062}|Librarylevel1\\Librarylevel1.csproj|solutionrelative:librarylevel1\\data\\bookdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A123C1-E64B-902E-49D6-34E52D2FD062}|Librarylevel1\\Librarylevel1.csproj|c:\\users\\inno\\desktop\\csharp\\librarylevel1\\librarylevel1\\librarylevel1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12A123C1-E64B-902E-49D6-34E52D2FD062}|Librarylevel1\\Librarylevel1.csproj|solutionrelative:librarylevel1\\librarylevel1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,11 +29,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\Inno\\Desktop\\CSharp\\.gitignore",
               "RelativeDocumentMoniker": "..\\.gitignore",
@@ -41,8 +49,7 @@
               "RelativeToolTip": "..\\.gitignore",
               "ViewState": "AgIAADIAAAAAAAAAAABBwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-09-29T08:25:23.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-29T08:25:23.323Z"
             },
             {
               "$type": "Document",
@@ -54,12 +61,11 @@
               "RelativeToolTip": "Librarylevel1\\Models\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T07:08:54.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-29T07:08:54.291Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "BookData.cs",
               "DocumentMoniker": "C:\\Users\\Inno\\Desktop\\CSharp\\Librarylevel1\\Librarylevel1\\Data\\BookData.cs",
               "RelativeDocumentMoniker": "Librarylevel1\\Data\\BookData.cs",
@@ -67,21 +73,19 @@
               "RelativeToolTip": "Librarylevel1\\Data\\BookData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T07:08:04.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-29T07:08:04.279Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Librarylevel1",
+              "DocumentIndex": 4,
+              "Title": "Librarylevel1.csproj",
               "DocumentMoniker": "C:\\Users\\Inno\\Desktop\\CSharp\\Librarylevel1\\Librarylevel1\\Librarylevel1.csproj",
               "RelativeDocumentMoniker": "Librarylevel1\\Librarylevel1.csproj",
               "ToolTip": "C:\\Users\\Inno\\Desktop\\CSharp\\Librarylevel1\\Librarylevel1\\Librarylevel1.csproj",
               "RelativeToolTip": "Librarylevel1\\Librarylevel1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-29T07:07:27.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-29T07:07:27.795Z"
             },
             {
               "$type": "Document",
