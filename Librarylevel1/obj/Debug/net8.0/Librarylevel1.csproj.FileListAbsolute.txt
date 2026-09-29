@@ -32,3 +32,5 @@ C:\Users\Inno\Desktop\CSharp\Librarylevel1\Librarylevel1\obj\Debug\net8.0\refint
 C:\Users\Inno\Desktop\CSharp\Librarylevel1\Librarylevel1\obj\Debug\net8.0\Librarylevel1.pdb
 C:\Users\Inno\Desktop\CSharp\Librarylevel1\Librarylevel1\obj\Debug\net8.0\Librarylevel1.genruntimeconfig.cache
 C:\Users\Inno\Desktop\CSharp\Librarylevel1\Librarylevel1\obj\Debug\net8.0\ref\Librarylevel1.dll
+C:\Users\Inno\Desktop\CSharp\Librarylevel1\Librarylevel1\bin\Debug\net8.0\books.json
+C:\Users\Inno\Desktop\CSharp\Librarylevel1\Librarylevel1\bin\Debug\net8.0\users.json

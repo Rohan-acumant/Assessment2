@@ -1,0 +1,10 @@
+[
+  {
+    "Id": 1,
+    "Name": "Rohan",
+    "Email": "Rohan@example.com",
+    "BorrowedBookIds": [
+      1
+    ]
+  }
+]
