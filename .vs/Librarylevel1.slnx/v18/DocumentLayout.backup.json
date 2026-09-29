@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Inno\\Desktop\\CSharp\\Librarylevel1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09A470ED-4526-4424-9B1B-A594AC104F23}|Librarylevel1\\Librarylevel1.csproj|c:\\users\\inno\\desktop\\csharp\\librarylevel1\\librarylevel1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A470ED-4526-4424-9B1B-A594AC104F23}|Librarylevel1\\Librarylevel1.csproj|solutionrelative:librarylevel1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Inno\\Desktop\\CSharp\\Librarylevel1\\Librarylevel1\\Program.cs",
+              "RelativeDocumentMoniker": "Librarylevel1\\Program.cs",
+              "ToolTip": "C:\\Users\\Inno\\Desktop\\CSharp\\Librarylevel1\\Librarylevel1\\Program.cs",
+              "RelativeToolTip": "Librarylevel1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T07:06:40.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
